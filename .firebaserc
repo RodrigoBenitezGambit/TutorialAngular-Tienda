@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tutorial-carrito": {
+      "hosting": {
+        "TutorialCarrito": [
+          "tutorial-carrito"
+        ]
+      }
+    }
+  }
+}
